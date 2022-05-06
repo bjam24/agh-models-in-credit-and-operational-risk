@@ -6,7 +6,5 @@ The purpose of this project is presentation of methods, which can be used during
 - Decission Tree
 - SVM
 
-Project actually is written in Polish, but I am going to translate it into English.
-
-Data Source
+## Data Source
 - Kaggle: Your Machine Learning and Data Science Community https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data
