@@ -4,7 +4,7 @@ This project was made for the Models in credit and operational risk course at th
 All provided methods are from sratch as a result of my work after hours, when I was solving given tasks (topics).
 
 ## Topics
-
+**Project Credit scoring methods**
 
 The purpose of this project is presentation of methods, which can be used during Credit Scoring process:
 - KNN
@@ -12,6 +12,11 @@ The purpose of this project is presentation of methods, which can be used during
 - Random Forest
 - Decission Tree
 - SVM
+
+**Laboratory 1**
+**Laboratory 2**
+**Laboratory 3**
+**Laboratory 4**
 
 ## Data Source
 - Kaggle: Your Machine Learning and Data Science Community https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data
