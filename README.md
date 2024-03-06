@@ -14,8 +14,11 @@ The purpose of this project is presentation of methods, which can be used during
 - SVM
 
 **Laboratory 1**
+
 **Laboratory 2**
+
 **Laboratory 3**
+
 **Laboratory 4**
 
 ## Data Source
