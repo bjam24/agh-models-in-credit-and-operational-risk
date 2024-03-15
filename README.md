@@ -25,7 +25,8 @@ Ultimately, the project provides for an evaluation of the results completed with
 
 **Laboratory 2**
 
-
+- Basel I
+- Basel II
 
 **Laboratory 3**
 
