@@ -1,7 +1,7 @@
 # Models in credit and operational risk
 ## Description
 This project and exercises were made for the Models in credit and operational risk course at the AGH UST in 2022.
-All provided methods are from scratch as a result of my work after hours, when I was solving given tasks (topics).
+All provided methods are a result of my work after hours, when I was solving given tasks (topics).
 
 ## Topics
 **Project Credit scoring methods**
