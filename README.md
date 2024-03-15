@@ -36,6 +36,8 @@ Ultimately, the project provides for an evaluation of the results completed with
 
 **Laboratory 4**
 
+- LDA
+-  OpVaR and OpES using the Monte Carlo method
 
 ## Technology stack
 
