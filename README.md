@@ -35,6 +35,10 @@ Ultimately, the project provides for an evaluation of the results completed with
 **Laboratory 4**
 
 
+## Technology stack
+
+- Python
+- Jupyter Notebook
 
 ## Data Source
 - Kaggle: Your Machine Learning and Data Science Community https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data
