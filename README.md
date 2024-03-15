@@ -20,7 +20,7 @@ Ultimately, the project provides for an evaluation of the results completed with
 
 **Laboratory 1**
 
-- LDA model
+- LDA
 - Altman Z-score
 
 **Laboratory 2**
@@ -30,7 +30,9 @@ Ultimately, the project provides for an evaluation of the results completed with
 
 **Laboratory 3**
 
-
+- Naive Bayes
+- Logistic Regression
+- LDA
 
 **Laboratory 4**
 
