@@ -1,7 +1,7 @@
 # Models in credit and operational risk
 ## Description
 This project and exercises were made for the Models in credit and operational risk course at the AGH UST in 2022.
-All provided methods are from sratch as a result of my work after hours, when I was solving given tasks (topics).
+All provided methods are from scratch as a result of my work after hours, when I was solving given tasks (topics).
 
 ## Topics
 **Project Credit scoring methods**
@@ -14,6 +14,9 @@ The purpose of this project is presentation of methods, which can be used during
 - SVM
 
 **Laboratory 1**
+
+- LDA model
+- Altman Z-score
 
 **Laboratory 2**
 
