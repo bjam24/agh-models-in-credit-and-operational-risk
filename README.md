@@ -6,12 +6,17 @@ All provided methods are from scratch as a result of my work after hours, when I
 ## Topics
 **Project Credit scoring methods**
 
-The purpose of this project is presentation of methods, which can be used during Credit Scoring process:
+This project aims to introduce the reader to the scoring methods in credit risk by presenting the substantive content 
+supported by examples. For this reason, the first part of the work focuses on discussing the theoretical aspects of scoring. 
+The next stage is the preparation and analysis of the selected data set, which will be used to demonstrate the operation of selected scoring methods:
+
 - KNN
 - Logistic Regression
 - Random Forest
 - Decission Tree
 - SVM
+
+Ultimately, the project provides for an evaluation of the results completed with a summary. The project is implemented using the Python language in Jupyter Notebook.
 
 **Laboratory 1**
 
@@ -20,9 +25,15 @@ The purpose of this project is presentation of methods, which can be used during
 
 **Laboratory 2**
 
+
+
 **Laboratory 3**
 
+
+
 **Laboratory 4**
+
+
 
 ## Data Source
 - Kaggle: Your Machine Learning and Data Science Community https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data
