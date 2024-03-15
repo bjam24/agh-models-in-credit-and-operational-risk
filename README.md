@@ -38,6 +38,7 @@ Ultimately, the project provides for an evaluation of the results completed with
 ## Technology stack
 
 - Python
+- R programming language
 - Jupyter Notebook
 
 ## Data Source
