@@ -39,10 +39,6 @@ Ultimately, the project provides for an evaluation of the results completed with
 - LDA
 -  OpVaR and OpES using the Monte Carlo method
 
-<p float="left">
-<img src="images/exponential_distribution_of_losses.jpg" width="400"/>
-</p>
-
 ## Technology stack
 
 - Python
