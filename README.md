@@ -1,14 +1,14 @@
 # Models in credit and operational risk
 ## Description
-This project and exercises were made for the Models in credit and operational risk course at the AGH UST in 2022.
+This project and exercises / homeworks were made for the Models in credit and operational risk course at the AGH UST in 2022.
 All provided methods are a result of my work after hours, when I was solving given tasks (topics).
 
 ## Topics
-**Project Credit scoring methods**
+**Project Credit scoring classification methods**
 
-This project aims to introduce the reader to the scoring methods in credit risk by presenting the substantive content 
-supported by examples. For this reason, the first part of the work focuses on discussing the theoretical aspects of scoring. 
-The next stage is the preparation and analysis of the selected data set, which will be used to demonstrate the operation of selected scoring methods:
+This project aims to introduce the reader to classification scoring methods in credit risk by presenting the substantive content supported by examples. For this reason, the first
+part of the work focuses on discussing the theoretical aspects of scoring. The next stage is the preparation and analysis of the selected data set, which will be used to demonstrate 
+the operation of selected classifiers:
 
 - KNN
 - Logistic Regression
@@ -18,23 +18,23 @@ The next stage is the preparation and analysis of the selected data set, which w
 
 Ultimately, the project provides for an evaluation of the results completed with a summary. The project is implemented using the Python language in Jupyter Notebook.
 
-**Laboratory 1**
+**Lab 1 Homework**
 
 - LDA
 - Altman Z-score
 
-**Laboratory 2**
+**Lab 2 Homework**
 
 - Basel I
 - Basel II
 
-**Laboratory 3**
+**Lab 3 Homework**
 
 - Naive Bayes
 - Logistic Regression
 - LDA
 
-**Laboratory 4**
+**Lab 4 Homework**
 
 - LDA
 -  OpVaR and OpES using the Monte Carlo method
