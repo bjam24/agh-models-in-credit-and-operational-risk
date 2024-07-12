@@ -4,7 +4,7 @@ This project and exercises / homeworks were made for the Models in credit and op
 All provided methods are a result of my work after hours, when I was solving given tasks (topics).
 
 ## Topics
-**Project Credit scoring classification methods**
+### Project Credit scoring classification methods
 
 This project aims to introduce the reader to classification scoring methods in credit risk by presenting the substantive content supported by examples. For this reason, the first
 part of the work focuses on discussing the theoretical aspects of scoring. The next stage is the preparation and analysis of the selected data set, which will be used to demonstrate 
